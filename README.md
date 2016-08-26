@@ -1,6 +1,6 @@
 ## Unity-Samples
 
-### USAGE:
+### How to build the Samples:
 
 - Download the Pyze Unity SDK from http://github.com/pyze/Unity-Library
 - Create a new Unity Project
