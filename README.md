@@ -4,7 +4,7 @@
 
 - Download the Pyze Unity SDK from http://github.com/pyze/Unity-Library
 - Create a new Unity Project
-- Import the downloaded sdk from pyze/Unity-Library into the empty Unity Project
+- Import the downloaded sdk from http://github.com/pyze/Unity-Library into the empty Unity Project
 - Download or clone any Sample app listed here
 - Import the downloaded sample app package into project
 - Open the sample app scene
